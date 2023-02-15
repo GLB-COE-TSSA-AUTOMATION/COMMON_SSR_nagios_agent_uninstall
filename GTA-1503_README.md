@@ -1,0 +1,1 @@
+# COMMON_SSR_nagios_agent_uninstall
